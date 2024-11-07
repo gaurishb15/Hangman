@@ -1,6 +1,6 @@
-# Hangman Game Algorithm - TrexQuant Hiring Challenge
+# Hangman Game Algorithm
 
-This repository contains the solution to the Hangman game challenge, completed as part of the TrexQuant hiring process for the Global Alpha Researcher role. The objective was to design a Hangman-playing algorithm with an accuracy rate exceeding 50%.
+This repository contains the solution to a Hangman game challenge. The objective was to design a Hangman-playing algorithm with an accuracy rate exceeding 50%.
 
 ## Project Overview
 
@@ -42,4 +42,4 @@ The final model achieved an accuracy rate of 66.5%, exceeding the required 50% t
 
 ## Conclusion
 
-This Hangman algorithm significantly enhances accuracy through conditional probabilities and pattern recognition, providing a robust solution to the TrexQuant hiring challenge.
+This Hangman algorithm significantly enhances accuracy through conditional probabilities and pattern recognition, providing a robust solution to the challenge.
